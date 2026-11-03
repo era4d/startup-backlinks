@@ -84,6 +84,7 @@
 | [Site-Plus](https://www.sites-plus.com/submit?c=96&LINK_TYPE=9) | 免费 | 20 | 7,600 | dofollow |
 | [Launched](https://launched.io/SubmitStartup) | 免费 | 33 | 11,000 | dofollow |
 | [Startup Base](https://startupbase.io/submit) | 免费 / 付费 | 70 | 29,500 | dofollow |
+| [SitePatent](https://sitepatent.com/submit) | 免费 / 付费 | - | - | 未知 |
 
 ## 社区
 
